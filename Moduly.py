@@ -27,7 +27,7 @@ from datetime import date
 today = date.today()
 from time import sleep
 from peewee import *
-TOKEN = "1760273638:AAFw0rl70OsMcPcaWJ-3Kza6dPL0VF7RLMQ"
+TOKEN = "112" ## вместо 112 your TOKEN
 
 
 db = SqliteDatabase('Shokolad.db')
